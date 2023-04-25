@@ -24,7 +24,7 @@ button {
   border: none;
   border-radius: 10px;
   color: aliceblue;
-  background-color: rgb(106, 26, 181);
+  background-color: rgb(26, 70, 181);
   text-transform: uppercase;
   font-weight: bold;
   cursor: pointer;
@@ -32,5 +32,5 @@ button {
 }
 
 button:hover {
-  background-color: rgba(106, 26, 181, 0.76);
+  background-color: rgba(26, 57, 181, 0.76);
 }
